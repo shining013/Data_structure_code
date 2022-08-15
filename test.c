@@ -1,6 +1,7 @@
 #include<ctype.h>
 #include<stdio.h>
 #pragma warning(disable:4996)
+/*문자열 입력 프로그램*/
 int read_line_with_compression(char compressed[], int limit);
 int main(void)
 {
